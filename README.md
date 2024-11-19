@@ -99,7 +99,7 @@ Access the user interface at `http://127.0.0.1:5000`.
 Figure 1: Home page of the Fire Risk Detection System.
 [Current](images/current_we.png)
 Figure 2: Results for the current time for the city of Trento.
-[Forecast](images/forecast.png)
+[Forecast](images/forecast_we.png)
 Figure 3: Forecast results for the city of Trento. 
 #### Data Fetcher
 
