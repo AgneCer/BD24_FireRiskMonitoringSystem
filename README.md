@@ -21,6 +21,7 @@ These components communicate through an MQTT message queue.
 - **MQTT (Paho-MQTT)**: Used for message queuing and communication between different components of the system.
 
 ![System Architecture](images/system_architecture.png)
+
 ### Project Structure
 
 The repository is organized as follows:
@@ -97,8 +98,12 @@ Access the user interface at `http://127.0.0.1:5000`.
 
 ![Home](images/home.png)
 Figure 1: Home page of the Fire Risk Detection System.
+
+
 ![Current](images/current_we.png)
 Figure 2: Results for the current time for the city of Trento.
+
+
 ![Forecast](images/forecast_we.png)
 Figure 3: Forecast results for the city of Trento. 
 #### Data Fetcher
